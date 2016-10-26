@@ -1,3 +1,3 @@
 # vim-astraios
 
-color scheme targetting react + js, very much still in progress.
+color scheme targeting react + js, very much still in progress.
